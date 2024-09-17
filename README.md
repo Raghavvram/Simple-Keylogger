@@ -3,4 +3,4 @@ A simple Keylogger written in python
 
 ### TODO:
 
-  -[ ] Email/Discord/Telegram Intergation 
+  - [ ] Email/Discord/Telegram Intergation 
